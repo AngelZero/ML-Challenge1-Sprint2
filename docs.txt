@@ -1,0 +1,3 @@
+# docs.txt — Branch A version
+Line 1: This is the A version.
+Line 2: Kept for conflict demonstration.
